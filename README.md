@@ -17,6 +17,6 @@ Steps performed in the process:
 5. Model Evaluation
 6. Comparing accuracy of various models.
 Models used: <br>
-Linear Regression <br> Decision Tree <br> Regressor Random Forest Regressor XG Boost Artificial Neural Network Support Vector Regressor
+Linear Regression Decision Tree Regressor Random Forest Regressor XG Boost Artificial Neural Network Support Vector Regressor
 
 Acccuracy metrics used: Mean Absolute Error r2 score Root Mean Squared Error
